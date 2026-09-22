@@ -1,3 +1,5 @@
+> ⚠️ **Warning:** This Binsparse C++ parser is not up-to-date and is no longer actively maintained.  Use the [Binsparse C parser](https://github.com/Binsparse/binsparse-reference-c).
+
 # Binsparse Reference Implementation
 
 This library is a reference implementation of the [Binsparse Binary Sparse Format Specification](https://github.com/GraphBLAS/binsparse-specification) written using C++.
